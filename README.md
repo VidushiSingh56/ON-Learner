@@ -57,7 +57,7 @@ Welcome to the OnLearner Flutter and Firebase Educational Application! This appl
 To run this application locally, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/Avaneesh8/OnLearner.git
+   git clone https://github.com/VidushiSingh56/ON-Learner.git
 
 2. Navigate to the project directory:
    cd OnLearner
